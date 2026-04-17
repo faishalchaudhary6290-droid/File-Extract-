@@ -13,7 +13,7 @@ def keep_alive(): Thread(target=run).start()
 # --- CONFIG ---
 API_ID = 32244889 
 API_HASH = "cb2f194931d477417c78f43c80c3deb2"
-BOT_TOKEN = "8554903983:AAHFNX0a4v4KLP7uymHydjMRHUVRL3hvPJ8"
+BOT_TOKEN = "8780531616:AAFbhhisSxbhOlGm5lx6NZ46FKxAEbh9png"
 
 bot = Client("IdExtractor", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
